@@ -1,10 +1,12 @@
 ---
 title: Software Programmer
-subtitle: MetaCortex
-url: http://matrix.wikia.com/wiki/MetaCortex
-startDate: 1996-09-13
-endDate: 1999-03-31
-location: Capitol City, USA
+subtitle: Upwork
+url: 'https://www.linkedin.com/in/abdelrahman-moustafa-b40562156/'
+startDate: 'Fri Apr 13 2022 03:00:00 GMT+0300 (Eastern European Summer Time)'
+endDate: 'Wed Apr 31 2022 02:00:00 GMT+0200 (Eastern European Standard Time)'
+location: 'Cairo, Egypt'
+published: true
 ---
 
-Worked as a computer programmer for the MetaCortex software company. Had a social security number. Sold contraband programming and hacks under the alias Neo.
+Built A music app based on the Spotify API for a freelance project on the Upwork Website.
+
