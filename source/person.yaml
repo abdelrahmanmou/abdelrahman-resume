@@ -1,21 +1,17 @@
-name: Thomas A. Anderson
+name: Abdelrahman Moustafa
 # Info to show in header
-email: neo@zion.gov
-phone: (312) 555-0690
-location: Zion, Earth
+email: abdo.moustafa.1998@gmail.com
+phone: +20 1002562925
+location: Giza, Egypt
 # Header introduction / mission statement
-intro: I carry the Matrix's source code, known as the Prime Program. This gives me the ability to freely manipulate the simulated reality of the Matrix, similar to the authority a system administrator has over a given system. I manifest these abilities as various superhuman powers.
+intro: Experienced iOS Developer with 2+ years of experience, skilled in Swift and Objective-C with expertise in the latest iOS development frameworks. Passionate about creating user-friendly applications and integrating with third-party libraries and APIs. Proven track record of working collaboratively in team environments, meeting deadlines, and exceeding expectations.
 #for Twitter cards:
-twitter: '@neo'
+twitter: '@Abdelrahman'
 # Removing all proficiencies will remove the section from the resume
 proficiencies:
   # - list item
-  - Hacking
-  - Creative entrepeneurship
-  - Martial arts
-  - Negotiations
-  - Hovercraft piloting
+ 
 # Links to include in header
 links:
   # text: http://link.com
-  '@neo': https://github.com/neo
+  '@neo': https://github.com/abdelrahmanmou
