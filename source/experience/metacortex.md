@@ -9,4 +9,3 @@ published: true
 ---
 
 Built A music app based on the Spotify API for a freelance project on the Upwork Website.
-
